@@ -14,6 +14,7 @@ Contact us directly here: adam@kruveinc.com
 ## Use
 
 See license file.
+https://github.com/FDK-by-KRUVE/Frontline-Defence-Kit/blob/master/LICENSE
 
 
 ## Change Log
