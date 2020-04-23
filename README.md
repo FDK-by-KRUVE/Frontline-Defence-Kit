@@ -7,7 +7,7 @@ DXF Cut file and layout in Autodesk Fusion 360
 
 ## Feedback, Help, and Collaboration
 
-Join the discussion here: 
+Join the discussion here: https://github.com/FDK-by-KRUVE/Frontline-Defence-Kit/issues
 
 Contact us directly here: adam@kruveinc.com
 
